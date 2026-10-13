@@ -1,0 +1,11 @@
+{
+  "id": "/Zametvibe/",
+  "name": "Zametvibe",
+  "short_name": "Zametvibe",
+  "description": "Приложение Zametvibe",
+  "start_url": "/Zametvibe/",
+  "scope": "/Zametvibe/",
+  "display": "standalone",
+  "theme_color": "#6750A4",
+  "background_color": "#FFFFFF"
+}
